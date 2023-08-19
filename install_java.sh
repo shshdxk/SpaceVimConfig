@@ -1,3 +1,5 @@
+#!/bin/bash
+
 CURRENT_SCRIPT_DIR=$(cd $(dirname $0);pwd)
 echo $CURRENT_SCRIPT_DIR
 # cd $CURRENT_SCRIPT_DIR/java/idt
